@@ -27,7 +27,7 @@ Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia, sempre em busca d
 
 ---
 
-## 🚀 Projetos
+## 🚀 Alguns projetos
 
 ### 🍴 **Food Explorer**
 Sistema de gerenciamento de pratos para um restaurante, com cadastro, edição, e upload de imagens.  
