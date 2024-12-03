@@ -18,7 +18,7 @@ Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia, sempre em busca d
 ### Linguagens e Ferramentas:
 - **Front-end:** HTML, CSS, JavaScript, ReactJS, Styled-components
 - **Back-end:** Node.js, Express, SQLite, Knex
-- **Ferramentas de Desenvolvimento:** Git, VS Code, Insomnia, PM2, Prettier
+- **Ferramentas de Desenvolvimento:** Git, VS Code, Insomnia
 
 ### Atualmente aprendendo:
 - 🚀 Aperfeiçoando minhas habilidades em **ReactJS**.
