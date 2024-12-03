@@ -33,7 +33,7 @@ Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia, sempre em busca d
 Sistema de gerenciamento de pratos para um restaurante, com cadastro, edição, e upload de imagens.  
 🔗 [Repositório](https://github.com/igorferreira007/food-explorer-frontend)
 
-### 🕒 **Movie-Notes**
+### 🎥 **Movie-Notes**
 Uma aplicação para criar e salvar resumos sobre filmes.  
 🔗 [Repositório](https://github.com/igorferreira007/Movie-Notes)
 
