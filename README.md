@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Igor Ferreira!
 
-Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia, sempre em busca de aprendizado e novos desafios. Atualmente, estou me dedicando em construir aplicações completas utilizando **JavaScript**, **Node.js** e **React**.
+Sou um desenvolvedor **Full-Stack**, sempre em busca de aprendizado e novos desafios. Atualmente, estou me dedicando em construir aplicações completas utilizando **JavaScript**, **Node.js** e **React**.
 
 ---
 
